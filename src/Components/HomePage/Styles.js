@@ -22,7 +22,6 @@ export const intro = {
   alignItems: "center",
   justifyContent: "center",
   gap: 3,
-  // bgcolor: "red",
   height: "50vh",
 };
 

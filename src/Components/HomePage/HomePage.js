@@ -1,4 +1,5 @@
-import { Box, Stack, Typography } from "@mui/material";
+import { Box, Stack, Tooltip, Typography } from "@mui/material";
+import { GitHub } from "@mui/icons-material";
 import { motion } from "framer-motion";
 import { intro, container, customDiv, image, wrapper } from "./Styles";
 
@@ -29,7 +30,7 @@ export default function HomePage() {
           initial="hidden"
           animate="visible"
         >
-          Techthella
+          TechThella
           <Box
             component={motion.div}
             sx={{ ...wrapper }}
@@ -47,7 +48,7 @@ export default function HomePage() {
           initial="hidden"
           animate="visible"
         >
-          Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
+          One Stop Solution For Vendors
           <Box
             component={motion.div}
             sx={{ ...wrapper }}
@@ -56,6 +57,28 @@ export default function HomePage() {
             transition={{ delay: 1.5, duration: 1, ease: "easeInOut" }}
           ></Box>
         </Typography>
+      </Stack>
+      <Stack
+        direction="row"
+        alignItems="center"
+        justifyContent="center"
+        gap={1}
+      >
+        <Typography
+          variant="p"
+          component="div"
+          sx={{
+            textDecoration: "underline",
+            textAlign: "center",
+          }}
+        >
+          By TechThella
+        </Typography>
+        <Box>
+          <Tooltip title="Github" placement="bottom">
+            <GitHub />
+          </Tooltip>
+        </Box>
       </Stack>
     </Box>
   );
