@@ -75,7 +75,7 @@ export default function HomePage() {
             textAlign: "center",
           }}
         >
-          By TechThella
+          By UNIT
         </Typography>
         <Box>
           <Tooltip title="Github" placement="bottom">
