@@ -63,6 +63,9 @@ export default function HomePage() {
         alignItems="center"
         justifyContent="center"
         gap={1}
+        onClick={() => {
+          window.location.href = "https://github.com/Aaditya-23/techthella";
+        }}
       >
         <Typography
           variant="p"
