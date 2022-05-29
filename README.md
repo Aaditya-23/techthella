@@ -9,8 +9,9 @@
 
 
 # TechThella by UNIT
-<div align="right">
-<img align="right" width="320" src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif" />
+<div>
+	<div align="right">
+<img align="right" width="280" src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif" />
 </div>
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen /></div> -->
 
@@ -40,6 +41,8 @@ Our Website proceeds through three steps:
 
 3.We predict a *probability*, taking in consideration the chances of a purchase around that location.
 
+</div>
+	
 </div>
 
 # ![Logo](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/logo.jpeg)
