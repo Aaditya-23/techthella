@@ -9,10 +9,10 @@
 
 
 # TechThella by UNIT
-<!-- 
-<img align='center' src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="230"> -->
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen /></div>
+<img align='center' src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="230">
+
+<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen /></div> -->
 
 This project aims at providing a technical backbone to the street vendors.
 
