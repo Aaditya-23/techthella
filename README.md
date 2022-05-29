@@ -1,4 +1,4 @@
-<h2>Tools and Technologies We used</h2>
+<h2>Tools and Technologies we used</h2>
 <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-success?style=flat-square&logo=express&logoColor=white"/>
@@ -71,6 +71,65 @@ Start the server
 ![App Screenshot](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/WhatsApp%20Image%202022-05-29%20at%2010.30.30%20AM.jpeg)
 
 
-## Authors
+# What is Exploratory Data Analysis?
 
-Team UNIT
+EDA is an approach to analyzing data sets to summarize their main characteristics, often with visual methods.
+
+
+   . EDA is an important step to first understand the data (identify the trends and patterns within the data, detect outliers or anomalous events, find interesting          relations among the variables, points of interesct, etc.) before using them for modeling, machine learning, etc.
+   
+   . By skipping this first exploratory step, data scientists might not be able to immediately understand key issues in the data or be able to guide deeper analysis in      the right direction.
+    
+   . The gathering of information on the data are:
+         . To make sure the data is valid
+         . To verify that there are no obvious problems.
+
+    
+    . EDA employs a variety of techniques (mostly graphical) to:
+
+       1. Maximize insight into a data set
+       2. Uncover underlying structure
+       3. Extract important variables
+       4. Detect outliers and anomalies
+       5. Test underlying assumptions
+       6. Develop parsimonious models, and
+       7. Determine optimal factor settings.
+       
+![App Screenshot](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.jpg)
+
+# Basic Processes of Finding Insights in Data
+
+![App Screenshot](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/tech.png)
+
+Goals:
+
+   We want to use Pandas and Seaborn to:
+     . Explore a numerical dataset and create visual distributions
+     . Identify and eliminate outliers (if any)
+     . Uncover correlations between two datasets
+
+
+Exploratory Data Analysis:
+    . Important step before training the model.
+    . We use statistical analysis and visualizations to understand the relationship of the target variable with other features.
+
+
+![App Screenshot](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/tech2.png)
+
+# Data Analytics Process
+
+## Data Analytics Process includes:
+	  1. Data Collection
+      2. Working on data quality
+      3. Building the model
+      4. Training model
+      5. Running the model with full data.
+
+For data integration and ETL we use integrate.io.It has powerful on-platform transformation tools that help with cleaning, normalizing, and transforming their data with adherence to compliance best practices. You will be able to create simple, visualized data pipelines to your data warehouse or data lake.
+
+# Contributors
+
+<a href="https://github.com/Aaditya-23/techthella/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Aaditya-23/techthella" />
+</a>
+
