@@ -9,13 +9,15 @@
 
 
 # TechThella by UNIT
-	<p align="right">
+	<div align="right">
           <img align="right" width="280" src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif" />
-        </p>
-
-       <p align="left">
-	    This project aims at providing a technical backbone to the street vendors.
-       </p>
+         </div>
+	 
+	 
+	 
+	 
+	 
+This project aims at providing a technical backbone to the street vendors.
 	
 
 **PROBLEM:**
