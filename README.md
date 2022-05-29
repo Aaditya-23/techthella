@@ -10,11 +10,12 @@
 
 # TechThella by UNIT
 
-<img align='center' src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif" width="480">
+<img align='right' src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif" width="480">
 
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen /></div> -->
 
-This project aims at providing a technical backbone to the street vendors.
+<div align="left">
+	This project aims at providing a technical backbone to the street vendors.
 
 **PROBLEM:**
 
@@ -39,6 +40,7 @@ Our Website proceeds through three steps:
 
 3.We predict a *probability*, taking in consideration the chances of a purchase around that location.
 
+</div>
 
 # ![Logo](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/logo.jpeg)
 
