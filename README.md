@@ -101,7 +101,7 @@ EDA is an approach to analyzing data sets to summarize their main characteristic
 
 ![App Screenshot](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/tech.png)
 
-Goals:
+# Goals:
 
    We want to use Pandas and Seaborn to:
      . Explore a numerical dataset and create visual distributions
@@ -109,7 +109,7 @@ Goals:
      . Uncover correlations between two datasets
 
 
-Exploratory Data Analysis:
+   Exploratory Data Analysis:
     . Important step before training the model.
     . We use statistical analysis and visualizations to understand the relationship of the target variable with other features.
 
@@ -125,7 +125,7 @@ Exploratory Data Analysis:
       4. Training model
       5. Running the model with full data.
 
-For data integration and ETL we use integrate.io.It has powerful on-platform transformation tools that help with cleaning, normalizing, and transforming their data with adherence to compliance best practices. You will be able to create simple, visualized data pipelines to your data warehouse or data lake.
+### For data integration and ETL we use integrate.io.It has powerful on-platform transformation tools that help with cleaning, normalizing, and transforming their data with adherence to compliance best practices. You will be able to create simple, visualized data pipelines to your data warehouse or data lake.
 
 # Contributors
 
