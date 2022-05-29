@@ -10,7 +10,7 @@
 
 # TechThella by UNIT
 	<div align="right">
-          <img align="right" width="280" src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif" />
+          <img align="right" width="280" src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif">
          </div>
 	 
 	 
