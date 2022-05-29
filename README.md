@@ -17,6 +17,10 @@
 
 <div align="left">
 	This project aims at providing a technical backbone to the street vendors.
+	
+	</div>
+	
+</div>
 
 **PROBLEM:**
 
@@ -40,10 +44,6 @@ Our Website proceeds through three steps:
 2.*Vendor* inputs the location he sells/ We map their loction.
 
 3.We predict a *probability*, taking in consideration the chances of a purchase around that location.
-
-</div>
-	
-</div>
 
 # ![Logo](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/logo.jpeg)
 
