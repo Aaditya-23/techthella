@@ -68,7 +68,7 @@ Start the server
 
 
 ## Screenshots
-![App Screenshot](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/WhatsApp%20Image%202022-05-29%20at%2010.30.30%20AM.jpeg)
+![App Screenshot](https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/Screenshot_1.png)
 
 
 # What is Exploratory Data Analysis?
