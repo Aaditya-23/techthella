@@ -1,4 +1,4 @@
-<h2>Tools and Technologies we used</h2>
+# Tools and Technologies we used
 <p>
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-success?style=flat-square&logo=express&logoColor=white"/>
@@ -8,7 +8,7 @@
 
 
 
-# TechThella
+# TechThella by UNIT
 
 
 This project aims at providing a technical backbone to the street vendors.
