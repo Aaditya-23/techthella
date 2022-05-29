@@ -2,6 +2,7 @@ import { Box, Stack, Tooltip, Typography } from "@mui/material";
 import { GitHub } from "@mui/icons-material";
 import { motion } from "framer-motion";
 import { intro, container, customDiv, image, wrapper } from "./Styles";
+import Input from "../Input/Input";
 
 export default function HomePage() {
   const variants = {
@@ -58,6 +59,7 @@ export default function HomePage() {
           ></Box>
         </Typography>
       </Stack>
+
       <Stack
         direction="row"
         alignItems="center"
@@ -83,6 +85,8 @@ export default function HomePage() {
           </Tooltip>
         </Box>
       </Stack>
+
+      <Input />
     </Box>
   );
 }
