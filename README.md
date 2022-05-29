@@ -1,6 +1,6 @@
 # Tools and Technologies we used
 <p>
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-success?style=flat-square&logo=express&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -10,7 +10,7 @@
 
 # TechThella by UNIT
 
-<img align='center' src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="230">
+<img align='center' src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="230" />
 
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><img src="https://giphy.com/embed/nNOAPjUdo4mpZFkDf8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen /></div> -->
 
