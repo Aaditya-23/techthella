@@ -9,13 +9,6 @@
 
 
 # TechThella by UNIT
-	<div align="right">
-          <img align="right" width="280" src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif">
-         </div>
-	 
-	 
-	 
-	 
 	 
 This project aims at providing a technical backbone to the street vendors.
 	
@@ -32,7 +25,8 @@ This project aims at providing a technical backbone to the street vendors.
 
 *Recognising the potential customers of a street vendor selling/providing a product or a service.*
 
-
+ <img align="center" width="280" src="https://github.com/Aaditya-23/techthella/blob/master/src/Assets/Images/data.gif">
+ 
 **SOLUTION IN DETAIL:**
 
 Our Website proceeds through three steps:
